@@ -1,0 +1,7 @@
+#Lista acess Key
+
+import boto3
+iam = boto3.client('iam')
+client = boto3.client('iam')
+response = client.list_access_keys()
+print(response)

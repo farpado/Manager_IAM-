@@ -19,6 +19,9 @@ Este Script tem as seguintes funções:
 - Listar usuarios
 - Criar politicas 
 
+# Executando
+
+Para execurar o script basta ter uma credencias aws configurada, e executar o arquivo (.py), neste caso ultilizamos uma extensão do vscode
 
 ## Referência
 
